@@ -1,9 +1,6 @@
 ## Hanna Nicander
-
 <div align="center"> <img src="https://static.wixstatic.com/media/449abe_7b15686b2118476da4a733a7861dd772~mv2.jpg/v1/fill/w_499,h_499,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/sn-color.jpg" alt="Happy snoopy" width="200" heigth="200"/>
 </div>
-
-
 Hi! I'm a creative woman with a love for learning. I am studying Civilingenjörsutbildningen inom Informationsteknik at KTH in Stockholm. I love to create things, whether that is by using my knowledge of computers and programming or with a sewing machine.
 <!--
 **nicanderhanna/nicanderhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
