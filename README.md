@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hanna Nicander
+Hi! I'm a creative woman with a love for learning. I am studying Civilingenjörsutbildningen inom Informationsteknik at KTH in Stockholm. I love to create things, whether that is by using my knowledge of computers and programming or with a sewing machine.
 <!--
 **nicanderhanna/nicanderhanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
